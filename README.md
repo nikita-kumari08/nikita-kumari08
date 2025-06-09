@@ -61,7 +61,7 @@ My journey into tech began with a curiosity to understand how things work behind
 ## 📚 Learning Resources
 
 - 🎯 [GeeksforGeeks DSA Self-Paced Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced)  
-- 📘 [Java Programming - Udemy Course](https://www.udemy.com/) *(link your course if public)*  
+- 📘 [Java Programming - Udemy Course](https://www.udemy.com/)   
 - 🎓 YouTube channels like Apna College, CodeWithHarry, BroCode  
 - 📗 Books: “Let Us C”, “Java: The Complete Reference”, “Cracking the Coding Interview”  
 
@@ -92,14 +92,6 @@ My journey into tech began with a curiosity to understand how things work behind
 > Real-world Java applications demonstrating practical use cases like student management, calculator, and mini-CLI tools.
 
 ➡️ **More coming soon!** Keep an eye on my GitHub for future updates.
-
----
-
-## 🏅 Achievements & Certifications *(Optional Section)*
-- ✅ Completed Java Foundation Certification – *[Insert Credential]*  
-- ✅ Completed GFG DSA Track – *[Insert Credential]*  
-- ✅ Finalist @ [Hackathon Name] – *[Insert Event]*  
-*(You can remove this section or fill it when ready)*
 
 ---
 
