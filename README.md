@@ -46,7 +46,7 @@ My journey into tech began with a curiosity to understand how things work behind
 ### 🌐 Web Development
 - **HTML5** – Semantic structure, best practices  
 - **CSS3** – Layouts, media queries, animations  
-- **JavaScript** – Dynamic features (in progress)  
+- **JavaScript** – Dynamic features 
 - **Basic Git & GitHub** – Version control and collaboration
 
 ### 🧰 Tools & Platforms
