@@ -1,3 +1,4 @@
+
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Nikita+Kumari+👋;ECE+Student+@+UCET+Hazaribagh;Tech+Explorer+%7C+Web+Developer+%7C+App+Learner;Cloud+Enthusiast+%7C+Lifelong+Learner+☁️;Let’s+Build+Something+Incredible+Together!+🚀" alt="Typing SVG" />
@@ -40,7 +41,7 @@ My journey into tech began with a curiosity to understand how things work behind
 ### 💻 Programming Languages
 - **C** – Procedural logic, syntax mastery, memory management  
 - **Java** – OOP principles, Java SE, DSA implementations  
-- **JavaScript** – DOM manipulation, interactivity (currently learning)
+- **JavaScript** – DOM manipulation, interactivity .
 
 ### 🌐 Web Development
 - **HTML5** – Semantic structure, best practices  
