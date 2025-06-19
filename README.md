@@ -92,7 +92,7 @@ My journey into tech began with a curiosity to understand how things work behind
 ### 📦 [Java Projects](https://github.com/nikita-kumari08)
 > Real-world Java applications demonstrating practical use cases like student management, calculator, and mini-CLI tools.
 
-➡️ **More coming soon!** 
+➡️ **More coming soon!** Keep an eye on my GitHub for future updates.
 
 ---
 
