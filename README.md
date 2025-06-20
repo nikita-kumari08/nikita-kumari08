@@ -5,7 +5,7 @@
 </p>
 
 ---
-## 👋 About Me ae
+## 👋 About Me a
 
 
 Hello! I'm **Nikita Kumari**, an enthusiastic and committed **Electronics & Communication Engineering (ECE)** student from **UCET Hazaribagh**, India. I’m deeply passionate about the intersection of **technology, innovation, and problem-solving**.
