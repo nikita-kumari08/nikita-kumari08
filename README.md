@@ -16,7 +16,7 @@ My journey into tech began with a curiosity to understand how things work behind
 
 ---
 
-## 🎯 My Mission
+## 🎯 My Mission ~~
 
 - 🔍 Explore and master core programming and development concepts  
 - 🚀 Build practical, scalable, and innovative software solutions  
