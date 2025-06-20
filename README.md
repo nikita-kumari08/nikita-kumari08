@@ -105,8 +105,7 @@ My journey into tech began with a curiosity to understand how things work behind
 
 ---
 
-## 🤝 Let’s Connect
-
+## 
 Open to networking, mentorship, internships, and collaborative project opportunities.
 
 <p align="center">
